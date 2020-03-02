@@ -1,0 +1,77 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/timo/
+	..
+1583092128
+'b
+	/home/timo/bin/
+	..
+1583092128
+'h
+	/home/timo/
+	..
+1583092128
+'z
+	/home/timo/.config/vifm
+	..
+1583092128
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/timo
+	polybar-themes
+2
+d/home/timo/polybar-themes
+	polybar-3
+3
+d/home/timo/polybar-themes/polybar-3
+	wallpapers
+2
+d/home/timo/polybar-themes/polybar-3/wallpapers
+	bg-default.png
+1
+d
+
+# Right window history (oldest to newest):
+D/home/timo
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
